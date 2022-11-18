@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/felipefranca824/waiter_app_api#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "eslint": "^8.27.0",
     "typescript": "^4.9.3"
   }
 }
